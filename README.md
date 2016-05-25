@@ -1,4 +1,4 @@
-# Flow of Computer Science
+# Flocos ciencia da computação
 Flocs is an intelligent web application for learning computer science,
 aiming at creating a [flow experience][1].
 Flocs is developed by [Adaptive Learning group][2] at Faculty of informatics, Masaryk university.
